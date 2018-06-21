@@ -1,0 +1,2 @@
+# TDDKata
+Learning code kata 
